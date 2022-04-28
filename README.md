@@ -14,3 +14,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 ## 🎨 Layout
+![layout](https://user-images.githubusercontent.com/93690908/165840848-52e46c10-9888-4041-b7df-0ab38dd6607c.jpg)
